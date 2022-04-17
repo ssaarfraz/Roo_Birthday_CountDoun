@@ -23,6 +23,7 @@ body {
     color: white;
     border-radius: 999px;
     font-size: 1.2rem;
+    margin-bottom: 100px;
     font-family: monospace;
     cursor: pointer;
     transition: background 0.2s ease;
