@@ -41,7 +41,7 @@ body {
       font-size: 1rem;
     }
   }
-  @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500;1,900&display=swap");
+    /* @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500;1,900&display=swap"); */
 
   * {
     box-sizing: border-box;
