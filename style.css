@@ -21,12 +21,12 @@ body {
     padding: 0.75em;
     background: #ff6347;
     color: white;
-    margin-bottom: 100px;
     border-radius: 999px;
     font-size: 1.2rem;
     font-family: monospace;
     cursor: pointer;
     transition: background 0.2s ease;
+    margin-bottom: 100px;
   }
   
   button:hover {
